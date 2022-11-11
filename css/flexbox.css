@@ -127,4 +127,12 @@
   .rodapePrincipal-contatoForm-fieldset {
     justify-content: center;
   }
+
+  .videoSobre .container {
+    flex-direction: column;
+  }
+  .videoSobre-video{
+    margin: 0 auto;
+    flex-shrink: 2;
+  }
 }
